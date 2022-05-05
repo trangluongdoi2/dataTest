@@ -1,6 +1,6 @@
 {
    "events": [
-{
+   {
       "id": 123,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
@@ -49,8 +49,8 @@
       "date": "May 10, 2022",
       "time": "8:00",
       "organizer": "FLC"
-    },
-]   
+    }
+   ]   
 }
 
 
