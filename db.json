@@ -1,4 +1,6 @@
 {
+   "events": [
+{
       "id": 123,
       "category": "animal welfare",
       "title": "Cat Adoption Day",
@@ -28,3 +30,7 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+]   
+}
+
+
